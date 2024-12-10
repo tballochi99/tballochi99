@@ -20,7 +20,7 @@ Passionate about computer science, I combine my studies in IT at Doranco with en
 You can reach me at:
 
 - **Email**: [tballochi99@gmail.com](mailto:tballochi99@gmail.com) :email:
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/timot%C3%A9-ballochi/<) :man_office_worker:
-- **Portfolio**: [Your Portfolio](https://portfolio-tballochi.vercel.app/) :page_facing_up:
+- **LinkedIn**: [My LinkedIn Profile](https://www.linkedin.com/in/timot%C3%A9-ballochi/<) :man_office_worker:
+- **Portfolio**: [My Portfolio](https://portfolio-tballochi.vercel.app/) :page_facing_up:
 
 Thank you for visiting my GitHub profile! Feel free to explore my repositories and contact me for any questions or collaboration. :smiley:
