@@ -5,6 +5,7 @@
 ---
 
 <a name="english-version"></a>
+# English Version
 
 Here is an overview of my skills and my professional interests.
 
@@ -28,6 +29,7 @@ Passionate about computer science, I combine my studies in IT at Doranco with en
 ---
 
 <a name="french-version"></a>
+# French Version
 
 Voici un aperçu de mes compétences et de mes intérêts professionnels.
 
