@@ -24,7 +24,7 @@ Passionate about computer science, I combine my studies in IT at Doranco with en
 ### Contact :envelope:
 - **Email**: [tballochi99@gmail.com](mailto:tballochi99@gmail.com) :email:
 - **LinkedIn**: [My LinkedIn Profile](https://www.linkedin.com/in/timot%C3%A9-ballochi/) :man_office_worker:
-- **Portfolio**: [My Portfolio](https://portfolio-tballochi.vercel.app/) :page_facing_up:
+- **Portfolio**: [My Portfolio](https://tbal.vercel.app/) :page_facing_up:
 
 ---
 
@@ -48,4 +48,4 @@ Passionné par l'informatique, je combine mes études en informatique à Doranco
 ### Contact :envelope:
 - **Email** : [tballochi99@gmail.com](mailto:tballochi99@gmail.com) :email:
 - **LinkedIn** : [Mon profil LinkedIn](https://www.linkedin.com/in/timot%C3%A9-ballochi/) :man_office_worker:
-- **Portfolio** : [Mon Portfolio](https://portfolio-tballochi.vercel.app/) :page_facing_up:
+- **Portfolio** : [Mon Portfolio](https://tbal.vercel.app/) :page_facing_up:
