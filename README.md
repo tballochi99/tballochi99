@@ -1,10 +1,5 @@
 # Welcome to my GitHub profile :rocket:
 
----
-
-<a name="english-version"></a>
-## English Version
-
 Here is an overview of my skills and my professional interests.
 
 ### About Me :wave:
